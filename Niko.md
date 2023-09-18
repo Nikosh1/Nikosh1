@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikosh1
+- 👋 Hi, I’m @Niko
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 📫 How to reach me 📧A15668347010@gmial.com
